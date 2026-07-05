@@ -125,7 +125,7 @@ import seaborn as sns
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/SCMS-EDA.git
+https://github.com/bristi10/-Exploratory-Data-Analysis-EDA-on-SCMS-Delivery-History-Dataset/edit/main/README.md
 ```
 
 ### Install dependencies
